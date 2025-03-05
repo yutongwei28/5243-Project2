@@ -1,17 +1,3 @@
-#
-# First, ensure you have the necessary packages installed:
-# install.packages("shiny")
-# install.packages("readr")
-# install.packages("readxl")
-# install.packages("jsonlite")
-# install.packages("dplyr")
-# install.packages("tidyr")
-# install.packages("ggplot2")
-# install.packages("plotly")
-# install.packages("DT")
-#
-#
-
 library(shiny)
 library(readr)
 library(readxl)
