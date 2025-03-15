@@ -14,6 +14,7 @@ files.
 
 ○ Built‐in Datasets: The app offers two built‐in data sets (mtcars and iris) so that users can
 explore the tool’s capabilities even without their own data.
+
 ○ Preview: The first few rows of the selected dataset are displayed for quick inspection.
 
 (2). Data Cleaning & Preprocessing (Lead: Zishun Shen)
