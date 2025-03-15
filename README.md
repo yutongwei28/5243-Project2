@@ -7,14 +7,12 @@ Team 13: Chang Xiong (cx2335), Zishun Shen (zs2695), Yutong Wei (yw4384), Xinyi 
 Our team developed a versatile R Shiny application called the “Advanced Data Analysis Tool” to address the full data workflow, from data upload through cleaning, feature engineering, and exploratory data analysis. The app is designed to be intuitive, user‐friendly, and flexible.
 App Link: https://xiongchang5243.shinyapps.io/project2app/ Github Link: https://github.com/yutongwei28/5243-Project2
 
-3. Key Functionalities
+2. Key Functionalities
 (1). Loading Datasets (Lead: Chang Xiong)
 ○ Multiple File Formats: Users can upload CSV, Excel (XLS/XLSX), JSON, and RDS
 files.
-
 ○ Built‐in Datasets: The app offers two built‐in data sets (mtcars and iris) so that users can
 explore the tool’s capabilities even without their own data.
-
 ○ Preview: The first few rows of the selected dataset are displayed for quick inspection.
 
 (2). Data Cleaning & Preprocessing (Lead: Zishun Shen)
