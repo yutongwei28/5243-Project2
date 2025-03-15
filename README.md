@@ -11,9 +11,12 @@ App Link: https://xiongchang5243.shinyapps.io/project2app/ Github Link: https://
 (1). Loading Datasets (Lead: Chang Xiong)
 ○ Multiple File Formats: Users can upload CSV, Excel (XLS/XLSX), JSON, and RDS
 files.
+
 ○ Built‐in Datasets: The app offers two built‐in data sets (mtcars and iris) so that users can
 explore the tool’s capabilities even without their own data.
+
 ○ Preview: The first few rows of the selected dataset are displayed for quick inspection.
+
 (2). Data Cleaning & Preprocessing (Lead: Zishun Shen)
 ○ Duplicate Removal: Users can optionally remove duplicate rows at the click of a button.
 ○ Missing‐Value Handling: The application allows removing missing‐value rows or
